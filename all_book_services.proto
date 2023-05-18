@@ -1,7 +1,0 @@
-syntax = "proto3";
-
-package book_service;
-
-option go_package="genproto/book_service";
-
-import "book_service.proto";
